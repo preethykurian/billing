@@ -1,3 +1,5 @@
 read items from 1 to on
 add
 print sum
+if amount >500 give dsicount 
+esle no
